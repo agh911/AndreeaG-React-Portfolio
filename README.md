@@ -16,11 +16,11 @@ This project is created using:
 
 The following images shows the portfolio's sections:
 
-![portfolio-home](https://drive.google.com/file/d/1BrJDwwcL0BSZHYJM75junD58Nzbq3dCm/view?usp=sharing)
-![portfolio-about](https://drive.google.com/file/d/1bYwG8nNayA2yFT-a9qSGKYes-m9AyOZT/view?usp=sharing)
-![portfolio-projects](https://drive.google.com/file/d/1erb_Vt_RrvRYSdXXkb2EFbIp7mLHsjeC/view?usp=sharing)
-![portfolio-project-modal](https://drive.google.com/file/d/1iAeQBh0CsAvvKWCErIViD80g4poaP4JN/view?usp=sharing)
-![portfolio-contact](https://drive.google.com/file/d/1buAhUbNB9HYhEnQEIFL_M-j3tejTws1u/view?usp=sharing)
+![portfolio-home](https://tinyurl.com/ym8pn8hz)
+![portfolio-about](https://tinyurl.com/yc4zanr7)
+![portfolio-projects](https://tinyurl.com/y56b68bw)
+![portfolio-project-modal](https://tinyurl.com/355zea54)
+![portfolio-contact](https://tinyurl.com/2s4ev5at)
 
 
 
