@@ -16,7 +16,12 @@ This project is created using:
 
 The following images shows the portfolio's sections:
 
-![portfolio-home](assets/images/*include gif name here*)
+![portfolio-home](https://drive.google.com/file/d/1BrJDwwcL0BSZHYJM75junD58Nzbq3dCm/view?usp=sharing)
+![portfolio-about](https://drive.google.com/file/d/1bYwG8nNayA2yFT-a9qSGKYes-m9AyOZT/view?usp=sharing)
+![portfolio-projects](https://drive.google.com/file/d/1erb_Vt_RrvRYSdXXkb2EFbIp7mLHsjeC/view?usp=sharing)
+![portfolio-project-modal](https://drive.google.com/file/d/1iAeQBh0CsAvvKWCErIViD80g4poaP4JN/view?usp=sharing)
+![portfolio-contact](https://drive.google.com/file/d/1buAhUbNB9HYhEnQEIFL_M-j3tejTws1u/view?usp=sharing)
+
 
 
 ## Links
