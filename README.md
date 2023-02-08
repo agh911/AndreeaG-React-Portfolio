@@ -16,11 +16,20 @@ This project is created using:
 
 The following images shows the portfolio's sections:
 
+* Home
 ![portfolio-home](https://tinyurl.com/ym8pn8hz)
-![portfolio-about](https://tinyurl.com/yc4zanr7)
-![portfolio-projects](https://tinyurl.com/y56b68bw)
-![portfolio-project-modal](https://tinyurl.com/355zea54)
-![portfolio-contact](https://tinyurl.com/2s4ev5at)
+
+* About
+[portfolio-about](https://tinyurl.com/yc4zanr7)
+
+* Projects
+[portfolio-projects](https://tinyurl.com/y56b68bw)
+
+* Project individual modal
+[portfolio-project-modal](https://tinyurl.com/355zea54)
+
+* Contact
+[portfolio-contact](https://tinyurl.com/2s4ev5at)
 
 
 
