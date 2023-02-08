@@ -17,7 +17,7 @@ This project is created using:
 The following images shows the portfolio's sections:
 
 * Home
-![portfolio-home](statis/media/portfolio-home.png)
+![portfolio-home](/statis/media/portfolio-home.png)
 
 * About
 ![portfolio-about](statis/media/portfolio-about.png)
