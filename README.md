@@ -17,19 +17,19 @@ This project is created using:
 The following images shows the portfolio's sections:
 
 * Home
-![portfolio-home](https://previews.dropbox.com/p/thumb/ABzD25sk10sEC5rPCafGy8Hi8_7ZQ1Zdy1-8L3DRe5p_2n7UG7ps6BpLrMsKLAicQRHNr0JH_1j0odOx8LQAdPebjeJ4YjaoF1ONtxCri3LfXtc9NXAOYQcQhxX7xvN5AjPSO7uKFF32xMIXB4CvaAyyEeE-mu6qhIb_ULOPRFyZUqJ8_TiT2M8z7s5dfsiM9yfzYGdVy6zseSo8_PLdIDQcYI14YNLOR0OrKqkMM28FILOK18OususNW--fFlWJNMTeGqZ0008JUk6_okLhKOMvmnr6RRDkqaB32Q__vwop19s0M0tN9dDwNdQANw476NY5OKq_JfBqmcqzF1AB5B2_ZVXqGMf6KkrPcbTsod6Xq5V2Uuu4aGiMuP1-1akdphQ/p.png)
+![portfolio-home](statis/media/portfolio-home.png)
 
 * About
-[portfolio-about](https://tinyurl.com/yc4zanr7)
+![portfolio-about](statis/media/portfolio-about.png)
 
 * Projects
-[portfolio-projects](https://tinyurl.com/y56b68bw)
+![portfolio-projects](statis/media/portfolio-projects.png)
 
 * Project individual modal
-[portfolio-project-modal](https://tinyurl.com/355zea54)
+![portfolio-project-modal](statis/media/portfolio-project-modal.png)
 
 * Contact
-[portfolio-contact](https://tinyurl.com/2s4ev5at)
+![portfolio-contact](statis/media/portfolio-contact.png)
 
 
 
