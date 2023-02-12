@@ -45,7 +45,7 @@ The following images shows the portfolio's sections:
 
 ## License
 
-![License](https://img.shields.io/github/license/agh911/AndreeaG-React-Portfolio?color=informational&label=License)
+![License](https://img.shields.io/github/license/agh911/recipe-finder?color=informational&label=License)
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
