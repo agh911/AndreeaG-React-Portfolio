@@ -17,19 +17,19 @@ This project is created using:
 The following images shows the portfolio's sections:
 
 * Home
-![portfolio-home](projects/portfolio-home.png)
+![portfolio-home](assets/other/portfolio-home.png)
 
 * About
-![portfolio-about](projects/portfolio-about.png)
+![portfolio-about](assets/other/portfolio-about.png)
 
 * Projects
-![portfolio-projects](projects/portfolio-projects.png)
+![portfolio-projects](assets/other/portfolio-projects.png)
 
 * Project individual modal
-![portfolio-project-modal](projects/portfolio-project-modal.png)
+![portfolio-project-modal](assets/other/portfolio-project-modal.png)
 
 * Contact
-![portfolio-contact](projects/portfolio-contact.png)
+![portfolio-contact](assets/other/portfolio-contact.png)
 
 
 
