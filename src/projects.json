@@ -1,0 +1,66 @@
+[
+    {
+        "name" : "Recipe Finder",
+        "image": "assets/projects/recipe-finder.png", 
+        "description" : "An application that allows users to search for either food recipes or cocktail recipes.",
+        "github": "https://github.com/agh911/recipe-finder",
+        "live": "https://agh911.github.io/recipe-finder/",
+        "tools": "HTML, CSS, JavaScript, jQuery, JSON, APIs"
+    },
+    {
+        "name" : "Team Profile Generator",
+        "image": "assets/projects/team-profile-generator.png", 
+        "description" : "App for gathering team member data, generating HTML summary with visually appealing cards.",
+        "github": "https://github.com/agh911/Team-Profile-Generator",
+        "live": "https://drive.google.com/file/d/1pqXp9IGXF1e78YrUzyciNHVhxRF3Rq7l/view",
+        "tools": "HTML, CSS, JavaScript, jQuery, APIs"
+    },
+    {
+        "name" : "README Generator",
+        "image": "assets/projects/readme-generator.png", 
+        "description" : "Built using Node.js, this app allows users to quickly and easily generate a README.md file.",
+        "github": "https://github.com/agh911/readme-generator",
+        "live": "https://drive.google.com/file/d/1wga2fOb6-W0m3SVPRdalV3OFCcb9qOLg/view",
+        "tools": "HTML, CSS, Flexbox"
+    },
+    {
+        "name" : "Weather Dashboard",
+        "image": "assets/projects/weather-dashboard.png", 
+        "description" : "An app that allows users to see the weather forecast for cities of their choosing.",
+        "github": "https://github.com/agh911/Weather-Dashboard",
+        "live": "https://agh911.github.io/Weather-Dashboard/",
+        "tools": "HTML, CSS, JavaScript, jQuery, JSON, Moment.js"
+    },
+    {
+        "name" : "Work Day Scheduler",
+        "image": "assets/projects/work-scheduler.png", 
+        "description" : "A simple calendar application that allows a user to save events for each hour of the work day.",
+        "github": "https://github.com/agh911/Work-Day-Scheduler-App",
+        "live": "https://agh911.github.io/Work-Day-Scheduler-App/",
+        "tools": "HTML, CSS, JavaScript, jQuery, JSON"
+    },
+    {
+        "name" : "Password Genetaror",
+        "image": "assets/projects/password-generator.png", 
+        "description" : "An application that enables users to generate random passwords based on selected criteria.",
+        "github": "https://github.com/agh911/Random-Password-Generator",
+        "live": "https://agh911.github.io/Random-Password-Generator/",
+        "tools": "HTML, CSS, JavaScript"
+    },
+    {
+        "name" : "Social Proof Section",
+        "image": "assets/projects/social-platform-component.png", 
+        "description" : "A customer feedback page to help build trust and credibility with potential customers.",
+        "github": "https://github.com/agh911/Social-proof-section",
+        "live": "https://agh911.github.io/Social-proof-section/",
+        "tools": "HTML, CSS, Flexbox"
+    },
+    {
+        "name" : "Order Summary Card",
+        "image": "assets/projects/order-summary-card.png", 
+        "description" : "Reusable component that allows users to review order details before submitting for processing.",
+        "github": "https://github.com/agh911/Order-summary-card",
+        "live": "https://agh911.github.io/Order-summary-card/",
+        "tools": "HTML, CSS, Flexbox"
+    }
+]
