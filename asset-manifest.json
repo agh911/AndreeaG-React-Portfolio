@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AndreeaG-React-Portfolio/static/css/main.58f78605.css",
+    "main.css": "/AndreeaG-React-Portfolio/static/css/main.e672b86f.css",
     "main.js": "/AndreeaG-React-Portfolio/static/js/main.6489fcb6.js",
     "static/media/background.png": "/AndreeaG-React-Portfolio/static/media/background.cd995a6cb6305c5b6e2e.png",
     "static/media/about.png": "/AndreeaG-React-Portfolio/static/media/about.28b92bde70c0ebee6b1a.png",
@@ -10,11 +10,11 @@
     "static/media/revicons.ttf": "/AndreeaG-React-Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/AndreeaG-React-Portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/AndreeaG-React-Portfolio/index.html",
-    "main.58f78605.css.map": "/AndreeaG-React-Portfolio/static/css/main.58f78605.css.map",
+    "main.e672b86f.css.map": "/AndreeaG-React-Portfolio/static/css/main.e672b86f.css.map",
     "main.6489fcb6.js.map": "/AndreeaG-React-Portfolio/static/js/main.6489fcb6.js.map"
   },
   "entrypoints": [
-    "static/css/main.58f78605.css",
+    "static/css/main.e672b86f.css",
     "static/js/main.6489fcb6.js"
   ]
 }
